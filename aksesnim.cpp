@@ -1,0 +1,1 @@
+static int getNim() { return nim; }
