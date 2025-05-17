@@ -1,0 +1,1 @@
+cout << "akses dari luar object = " << mahasiswa::getNim() << endl;
