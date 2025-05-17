@@ -1,0 +1,1 @@
+static void setNim(int pNim) { nim = pNim; }
