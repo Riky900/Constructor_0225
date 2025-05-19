@@ -43,12 +43,12 @@ int main(){
 
     Student::setStudentTotal(10);
 
-    cout << "Student total is" << Student::getTotalStudent() << endl;
+     << "Student total is" << Student::getTotalStudent() << endl;
     {
         Student st3("Budi", 19);
         Student st4("Caca", 21);
         cout << "Student total is" << Student::getTotalStudent() << endl;
-    }
+    }cout
     
     cout << "Student total is" << Student::getTotalStudent() << endl;
     return 0;
